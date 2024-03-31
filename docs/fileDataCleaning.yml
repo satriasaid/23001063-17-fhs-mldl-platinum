@@ -1,16 +1,3 @@
-tags:
-  - name: File Processing
-get:
-  description: File yang akan diproses
-parameters:
-  - name: fileUpload
-    in: formData
-    required: true
-    type: file
-responses:
-    '200':
-      description: Successful Response
-    '400':
-      description: Bad Request    
-    '500':
-      description: Internal Server Error      
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9fd655541e5aab22d95d9af1432b50634b059a83c5cca10dab442a4a8076089
+size 324

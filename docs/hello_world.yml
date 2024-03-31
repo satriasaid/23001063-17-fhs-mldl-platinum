@@ -1,11 +1,3 @@
-tags:
-  - name: Hello World
-get:
-  description: Menyapa Hello World
-responses:
-    '200':
-      description: Successful Response
-    '400':
-      description: Bad Request    
-    '500':
-      description: Internal Server Error      
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea400582098ec01d789b445f7487cbeadb94de92d16da6dd5f0a7f9e4cf838f1
+size 232

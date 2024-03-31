@@ -1,16 +1,3 @@
-tags:
-  - name: Text Processing
-get:
-  description: Teks yang akan diproses
-parameters:
-  - name: text
-    in: formData
-    required: true
-    type: string
-responses:
-    '200':
-      description: Successful Response
-    '400':
-      description: Bad Request    
-    '500':
-      description: Internal Server Error      
+version https://git-lfs.github.com/spec/v1
+oid sha256:17ac1a5b7971771a5b27a4ab9616901de3d9df21135db828e2e8724b231e1c43
+size 320
